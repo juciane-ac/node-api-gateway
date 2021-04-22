@@ -1,0 +1,45 @@
+{
+  "alunos": {
+    "data": [
+      {
+        "id": "1",
+        "nome": "Juciane Chianca",
+        "data_nascimento": "1995-12-20",
+        "celular": "(84)999990808",
+        "telefone": "",
+        "email": "email@email.com.br",
+        "endereco":"Rua teste, 19",
+        "complemento":"AP 101",
+        "bairro": "Bairro teste",
+        "cidade":"Natal",
+        "estado": "RN"
+      },
+      {
+        "id": "2",
+        "nome": "John Doe",
+        "data_nascimento": "1998-01-28",
+        "celular": "(84)999990101",
+        "telefone": "",
+        "email": "email@email.com.br",
+        "endereco":"Rua teste 1, 19",
+        "complemento":"AP 101",
+        "bairro": "Bairro teste 1",
+        "cidade":"Natal",
+        "estado": "RN"
+      },
+      {
+        "id": "3",
+        "nome": "Maria Joaquina",
+        "data_nascimento": "1999-03-28",
+        "celular": "(84)999990202",
+        "telefone": "",
+        "email": "email@email.com.br",
+        "endereco":"Rua teste 2, 19",
+        "complemento":"AP 101",
+        "bairro": "Bairro teste 2",
+        "cidade":"Natal",
+        "estado": "RN"
+      }
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "cursos": {
+    "data": [
+      {
+        "id": "1",
+        "codigo": "213456789",
+        "titulo": "Tecnologia em Análise e Desenvolvimento de Sistemas",
+        "sigla": "TADS",
+        "data_criacao": "2021-03-01"
+      }
+    ]
+  }
+}
